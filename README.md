@@ -16,4 +16,6 @@ Unlike most other DAOs, this one would ensure that the identity of each token ho
 # Join the Telegram commmunity 
 Whether you're a hacker, shiller or anything in between, come and join the Estonia DAO Telegram group: https://t.me/estonia_DAO.  
 
+# Dragon Quest online Hackathon 
+Estonia DAO is being built during the Dragon Quest virtual hackathon: https://hackathon.metacartel.org/
 
