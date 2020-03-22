@@ -14,6 +14,6 @@ Estonia DAO is a fun experiment that will enable Estonia e-residents to:
 Unlike most other DAOs, this one would ensure that the identity of each token holder is known, leading to a potentially fairer governance model of 1 token = 1 vote, for each Estonia E-resident.
 
 # Join the Telegram commmunity 
-Whether your hacker, shiller or anything in between, come and join the Estonia DAO Telegram group: https://t.me/estonia_DAO.  
+Whether you're a hacker, shiller or anything in between, come and join the Estonia DAO Telegram group: https://t.me/estonia_DAO.  
 
 
